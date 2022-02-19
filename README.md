@@ -18,5 +18,5 @@
    <a href="https://t.me/Kkrck"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
  - 
 
-all code are import of catuserbot 
-https://t.me/catuserbot_support
+Source Shahad
+https://t.me/kkrck
